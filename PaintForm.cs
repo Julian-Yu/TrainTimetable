@@ -45,7 +45,11 @@ namespace TrainTimetable
         /// 画图工具类
         /// </summary>
         PaintTool pt;
-       
+        /// <summary>
+        /// 交路方案界面
+        /// </summary>
+        RoutePlanForm rp;
+
         
 
         /// <summary>
