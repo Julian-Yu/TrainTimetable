@@ -1,0 +1,4 @@
+﻿已启动重新生成…
+1>------ 已启动全部重新生成: 项目: TrainTimetable, 配置: Debug Any CPU ------
+1>  TrainTimetable -> H:\工作学习\课程课件\课件\高速铁路\运行图显示程序\TrainTimetable\bin\Debug\TrainTimetable.exe
+========== 全部重新生成: 成功 1 个，失败 0 个，跳过 0 个 ==========
